@@ -1,6 +1,6 @@
 +++
 weight = 1000
-image = "/images/screenshot-instagram-chippokethetravelinghedgehog.png"
+image = "/images/screenshot-instagram-chippokethetravelinghedgehog.jpg"
 showonlyimage = false
 date = "2022-05-09T17:02:39-04:00"
 title = "Instagram — @ChippokeTheTravelingHedgehog"
@@ -11,6 +11,6 @@ draft = false
 
 <!--more-->
 
-[![@ChippokeTheTravelingHedgehog](/images/screenshot-instagram-chippokethetravelinghedgehog.png "Visit @ChippokeTheTravelingHedgehog on Instagram…")](https://www.instagram.com/ChippokeTheTravelingHedgehog/)
+[![@ChippokeTheTravelingHedgehog](/images/screenshot-instagram-chippokethetravelinghedgehog.jpg "Visit @ChippokeTheTravelingHedgehog on Instagram…")](https://www.instagram.com/ChippokeTheTravelingHedgehog/)
 
 ### 🔗 *[Visit @ChippokeTheTravelingHedgehog on Instagram to globetrot along with them…](https://www.instagram.com/ChippokeTheTravelingHedgehog/)*

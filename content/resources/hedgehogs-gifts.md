@@ -1,6 +1,6 @@
 +++
 weight = 0
-image = "/images/screenshot-hedgehog-gifts.png"
+image = "/images/screenshot-hedgehog-gifts.jpg"
 showonlyimage = false
 date = "2022-05-09T16:28:59-04:00"
 title = "Hedgehog.Gifts — Spoil Your Inner Hedgie!"
@@ -11,6 +11,6 @@ draft = false
 
 <!--more-->
 
-[![Hedgehog.Gifts](/images/screenshot-hedgehog-gifts.png "Visit Hedgehog.Gifts…")](https://hedgehog.gifts/)
+[![Hedgehog.Gifts](/images/screenshot-hedgehog-gifts.jpg "Visit Hedgehog.Gifts…")](https://hedgehog.gifts/)
 
 ### 🔗 *[Visit Hedgehog.Gifts to explore hedgie toys, accessories, and treats…](https://hedgehog.gifts/)*

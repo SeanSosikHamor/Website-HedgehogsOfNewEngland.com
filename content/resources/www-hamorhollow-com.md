@@ -1,6 +1,6 @@
 +++
 weight = 10
-image = "/images/screenshot-www-hamorhollow-com.png"
+image = "/images/screenshot-www-hamorhollow-com.jpg"
 showonlyimage = false
 date = "2022-05-09T15:56:09-04:00"
 title = "HamorHollow.com — Hamor Hollow Hedgehogs"
@@ -11,7 +11,7 @@ draft = false
 
 <!--more-->
 
-[![HamorHollow.com](/images/screenshot-www-hamorhollow-com.png "Visit HamorHollow.com…")](https://www.hamorhollow.com/)
+[![HamorHollow.com](/images/screenshot-www-hamorhollow-com.jpg "Visit HamorHollow.com…")](https://www.hamorhollow.com/)
 
 ### 🔗 *[Visit HamorHollow.com to schedule an appointment, or for more information about dropping off a rescue…](https://www.hamorhollow.com/)*
 
