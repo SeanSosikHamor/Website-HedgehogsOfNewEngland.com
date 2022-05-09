@@ -63,3 +63,7 @@ googleAnalytics = "UA-85682-34"
   youtube       = "https://www.youtube.com/user/HamorHollow"
   # whatsapp      = "wa.me service link"
   shoppingbag = "https://hedgehog.gifts/"
+
+# Custom Settings
+
+enableGitInfo = true
